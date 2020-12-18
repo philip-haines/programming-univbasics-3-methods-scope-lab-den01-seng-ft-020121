@@ -13,9 +13,9 @@ def link
 end
 
 def all_phrases
-  link
   mario
   toadstool
+  link
 end
 
 all_phrases
